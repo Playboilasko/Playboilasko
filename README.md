@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Playboilasko
+- 👋 Hi, I’m @fawaz falana
 - 👀 I’m interested in front end design and cloud engineering
 - 🌱 I’m currently learning frontend and product design
 - 💞️ I’m looking to collaborate on product design and cloud engineering projects
